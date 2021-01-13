@@ -11,13 +11,13 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Opentext
+    url: "https://www.opentext.com"
+    location: Austin, Texas.
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Opentext is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
+  - designation: Architect
     start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
@@ -27,7 +27,7 @@ experiences:
     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
     - Lead backend team.
 
-  - designation: Junior Software Engineer
+  - designation: Senior Software Engineer
     start: Nov 2017
     end: Oct 2019
     responsibilities:
@@ -36,10 +36,10 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Vignette
+    url: "https://www.vignette.com"
+    location: Austin, Texas
+    overview: Vignette is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Software Engineer
     start: March 2016
@@ -50,12 +50,26 @@ experiences:
     - See lots of example videos.
 
 - company:
-    name: Intern Counting Company (ICC).
+    name: Techspan
     url: "https://www.intern.com"
     location: Intern Land
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
   - designation: Intern
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
+
+- company:
+    name: EDS / Chaos 2 Order 
+    url: "https://www.intern.com"
+    location: Intern Land
+    overview: c2o Systems was a web startup within EDS Systems.. Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Web Developer
     start: Jun 2015
     end: Jan 2016
     responsibilities:
